@@ -2,4 +2,7 @@
   <Folder Name="/Task0/">
     <Project Path="Tyuiu.TinkovSS.Sprint0.Task0.V0/Tyuiu.TinkovSS.Sprint0.Task0.V0.csproj" />
   </Folder>
+  <Folder Name="/Task1/">
+    <Project Path="Tyuiu.TinkovSS.Sprint0.Task1.V0/Tyuiu.TinkovSS.Sprint0.Task1.V0.csproj" />
+  </Folder>
 </Solution>

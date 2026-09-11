@@ -7,12 +7,14 @@
   </Folder>
   <Folder Name="/Task2/">
     <Project Path="Tyuiu.TinkovSS.Sprint0.Task0.2.V0.Lib/Tyuiu.TinkovSS.Sprint0.Task2.V0.Lib.csproj" />
-    <Project Path="Tyuiu.TinkovSS.Sprint0.Task2.V0.Test/Tyuiu.TinkovSS.Sprint0.Task2.V0.Test.csproj" />
     <Project Path="Tyuiu.TinkovSS.Sprint0.Task2.V0/Tyuiu.TinkovSS.Sprint0.Task2.V0.csproj" />
   </Folder>
   <Folder Name="/Task3/">
     <Project Path="Tyuiu.TinkovSS.Sprint0.Task3.V0.Lib/Tyuiu.TinkovSS.Sprint0.Task3.V0.Lib.csproj" />
     <Project Path="Tyuiu.TinkovSS.Sprint0.Task3.V0.Test/Tyuiu.TinkovSS.Sprint0.Task3.V0.Test.csproj" />
     <Project Path="Tyuiu.TinkovSS.Sprint0.Task3.V0/Tyuiu.TinkovSS.Sprint0.Task3.V0.csproj" />
+  </Folder>
+  <Folder Name="/Task4/">
+    <Project Path="Tyuiu.TinkovSS.Sprint0.Task4.V0/Tyuiu.TinkovSS.Sprint0.Task4.V0.csproj" />
   </Folder>
 </Solution>
